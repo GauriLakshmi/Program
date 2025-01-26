@@ -7,6 +7,6 @@ Each time we run this program, it will generate a different password due to the 
 ## Technical Details
 For Software:
 - Languages used :- C language
-- Tools used :- VSCode,Google Chrome
+- Tools used :- VSCode
 
 
